@@ -139,3 +139,8 @@ document.body.addEventListener("click", (e) => {
   }
 });
 ```
+## Contato
+
+**Nome:** João Pedro Lacerda Sousa  
+**Email:** [jpedro121256@gmail.com](mailto:jpedro121256@gmail.com)  
+**LinkedIn:** [João Pedro Lacerda Sousa](https://www.linkedin.com/in/joão-pedro-lacerda-sousa-0ab308244/)
