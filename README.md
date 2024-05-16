@@ -21,7 +21,7 @@ Este projeto utiliza a API do Google para fazer a transcrição de voz e impleme
 
 Certifique-se de ter um navegador que suporte a API de reconhecimento de voz do Google (como Google Chrome).
 
-Acesse a documentação da API se necessário para ver o suporte dos navegadore:
+Acesse a documentação da API se necessário para ver o suporte dos navegador:
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
 
 ### Passos
